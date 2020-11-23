@@ -8,6 +8,9 @@ In preparation for opening a surf and ice cream shop in Oahu, completed analysis
 
 Temperature results for June and December shown below:
 
+![June](https://user-images.githubusercontent.com/71353552/99923907-21c37780-2cf5-11eb-86d2-ac8645881a47.png)
+![December](https://user-images.githubusercontent.com/71353552/99923909-24be6800-2cf5-11eb-844b-591ec056cc5a.png)
+
 
 
 
