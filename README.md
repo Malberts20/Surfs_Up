@@ -14,21 +14,18 @@ Temperature results for June and December shown below:
 
 
 
-Three tiers of retiring titles
-- 1st Tier : Senior positions (Senior Engineer and Senior Staff)
-- 2nd Tier : Engineer and Staff
-- 3rd Tier : Technique Leader and Asst Engineer
 
+- Average temperatures above 70 degrees in both June and December; 3.9 degrees cooler in December than June 
+- Slightly more volatile temperatures in December than June (std dev 3.75 vs. 3.26)
+- Range of temperatures in June (64 to 85 degrees); range in December (56 to 83 degrees) 
 
 
 ## Summary: 
 
-Revised query for Retiring Titles that is filtered for only current employees:
+Temperature data supports decsion to open surf and ice cream shop in Oahu.
 
-
-
-Two tier of retiring titles
-- 1st Tier : Senior positions (Senior Engineer and Senior Staff) & Engineer and Staff (approximately 65,000 positions)
-- 2nd Tier : Technique Leader and Asst Engineer (approximately 6,000 postions)
-
+If futher weather data and analysis is required, propose the following:
+- Preciptitation 
+- Humidity
+- Wind
 
